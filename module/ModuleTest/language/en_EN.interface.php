@@ -1,0 +1,21 @@
+<?php
+return array(
+    'tr_moduletest_title' => '',
+    'tr_moduletest_desc' => '',
+    'tr_moduletest_header' => 'Header',
+    'tr_moduletest_content' => 'Content',
+    'tr_ModuletestPlugintestPlugin_Name' => 'Plugin test',
+    'tr_ModuletestPlugintestPlugin_Description' => 'plugin description',
+    'tr_moduletest_plugintest_plugin_tab_properties' => 'Properties',
+    'tr_melis_moduletest_plugintest_template_path_label' => 'Template',
+    'tr_melis_moduletest_plugintest_template_path tooltip' => '',
+    'tr_melis_moduletest_plugintest_template_path_Moduletestpluginsplugintest_label' => 'Moduletest/plugins/plugin-test',
+    'tr_melis_moduletest_plugintest_Name_label' => 'Name',
+    'tr_melis_moduletest_plugintest_Name tooltip' => 'This is name',
+    'tr_melis_moduletest_plugintest_Gender_label' => 'Gender',
+    'tr_melis_moduletest_plugintest_Gender tooltip' => 'this is gender',
+    'tr_melis_moduletest_plugintest_Gender_Male_label' => 'Male',
+    'tr_melis_moduletest_plugintest_Gender_Female_label' => 'Female',
+    'tr_melis_moduletest_plugintest_Description_label' => 'Description',
+    'tr_melis_moduletest_plugintest_Description tooltip' => 'description',
+);
